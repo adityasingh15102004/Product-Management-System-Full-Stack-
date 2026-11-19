@@ -1,0 +1,9 @@
+ProductManagementSystem-Frontend/node_modules/
+ProductManagementSystem-Frontend/dist/
+ProductManagementSystem-Frontend/build/
+ProductManagementSystem-Frontend/.env
+ProductManagementSystem-Frontend/.env.local
+ProductManagementSystem.API/**/bin/
+ProductManagementSystem.API/**/obj/
+ProductManagementSystem.API/.vs/
+ProductManagementSystem.API/appsettings.Development.json
